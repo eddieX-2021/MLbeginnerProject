@@ -16,4 +16,4 @@ Coming soon!
    http://localhost:5000/predictdata
 4. Enter some numbers, and you'll receive the prediction result!
 
-   ![demo page](Screenshot 2024-11-25 103751.png)
+   ![demo](https://github.com/eddieX-2021/MLbeginnerProject/blob/main/Screenshot%202024-11-25%20103751.png)
