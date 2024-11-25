@@ -15,3 +15,5 @@ Coming soon!
 3. To access the ML prediction page, go to:
    http://localhost:5000/predictdata
 4. Enter some numbers, and you'll receive the prediction result!
+
+   ![demo page](demo.png)
